@@ -1,8 +1,7 @@
-![Uploading use-esse-no-splashscreem.png…]()
 # Penso, Logo Programo — Fundamentos de Pensamento Computacional com Python
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/57891531-1e8e-474f-837f-5098f8fe1253" width="220" alt="penso-logo-programo">
+  <img src="https://github.com/user-attachments/assets/57891531-1e8e-474f-837f-5098f8fe1253" width="320" alt="penso-logo-programo">
 </p>
 
 <p align="center">
