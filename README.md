@@ -1,3 +1,4 @@
+![Uploading use-esse-no-splashscreem.png…]()
 # Penso, Logo Programo — Fundamentos de Pensamento Computacional com Python
 
 <p align="center">
@@ -271,11 +272,13 @@ A metodologia utilizada combina:
 ---
 
 <p align="center">
-  <img src="./assets/rubinholyralabs-logo.png" width="220">
+  <img alt="baner" src="https://github.com/user-attachments/assets/85615b82-24a7-4f2d-a5d3-52b93a8333a6"  width="220">
+
+  
 </p>
 
 <p align="center">
   <strong>Rubinho Lyra Labs</strong><br>
   Pensar • Estruturar • Programar • Transformar
 </p>
-<img width="1024" height="1536" alt="fc8fb76c-95f8-469c-bb0b-9e5587722973" src="https://github.com/user-attachments/assets/e87b3aef-7be0-4048-be86-a32ba3283718" />
+
