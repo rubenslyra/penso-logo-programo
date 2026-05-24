@@ -15,7 +15,7 @@
 
 ---
 
-# 🧠 Sobre o Projeto
+# 01. Sobre o Projeto
 
 **Penso, Logo Programo** é uma playlist, repositório e ambiente de treinamento técnico voltado ao desenvolvimento do pensamento computacional aplicado ao desenvolvimento moderno de software.
 
@@ -38,7 +38,7 @@ Aqui trabalhamos:
 
 ---
 
-# 🎯 Objetivo
+# 02. Objetivo
 
 Construir uma formação progressiva que leve estudantes iniciantes:
 
@@ -59,7 +59,7 @@ A proposta é ensinar:
 
 ---
 
-# 🏗️ Filosofia do Projeto
+# 03. Filosofia do Projeto
 
 ```text
 Pensar
@@ -83,7 +83,7 @@ Documentar
 
 ---
 
-# 📚 Proposta de Desenvolvimento
+# 04. Proposta de Desenvolvimento
 
 O projeto foi estruturado em módulos progressivos.
 
@@ -93,7 +93,7 @@ Cada treino prepara uma nova camada de entendimento.
 
 ---
 
-# 📌 Estrutura Pedagógica
+# 05. Estrutura Pedagógica
 
 ## 1. Introdução à Computação
 
@@ -168,7 +168,7 @@ Cada treino prepara uma nova camada de entendimento.
 
 ---
 
-# 📂 Estrutura Inicial do Repositório
+# 06. Estrutura Inicial do Repositório
 
 ```text
 .
@@ -183,7 +183,7 @@ Cada treino prepara uma nova camada de entendimento.
 
 ---
 
-# 🧩 Conceitos Trabalhados
+# 07. Conceitos Trabalhados
 
 * Pensamento Computacional
 * Engenharia de Software
@@ -200,7 +200,7 @@ Cada treino prepara uma nova camada de entendimento.
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# 08. Tecnologias Utilizadas
 
 | Tecnologia       | Finalidade                 |
 | ---------------- | -------------------------- |
@@ -214,7 +214,7 @@ Cada treino prepara uma nova camada de entendimento.
 
 ---
 
-# 📖 Base Conceitual
+# 09. Base Conceitual
 
 Este projeto possui forte influência de:
 
@@ -227,7 +227,7 @@ Este projeto possui forte influência de:
 
 ---
 
-# 🧪 Metodologia
+# 10. Metodologia
 
 A metodologia utilizada combina:
 
@@ -239,20 +239,22 @@ A metodologia utilizada combina:
 
 ---
 
-# 📌 Sumário
+# 11. Sumário
 
-* [Introdução](#-sobre-o-projeto)
-* [Objetivo](#-objetivo)
-* [Filosofia do Projeto](#️-filosofia-do-projeto)
-* [Proposta de Desenvolvimento](#-proposta-de-desenvolvimento)
-* [Estrutura Pedagógica](#-estrutura-pedagógica)
-* [Estruturas de Dados](#-conceitos-trabalhados)
-* [Tecnologias](#️-tecnologias-utilizadas)
-* [Metodologia](#-metodologia)
+* [Introdução](#01-sobre-o-projeto)
+* [Objetivo](#02-objetivo)
+* [Filosofia do Projeto](#03-filosofia-do-projeto)
+* [Proposta de Desenvolvimento](#04-proposta-de-desenvolvimento)
+* [Estrutura Pedagógica](#05-estrutura-pedagógica)
+* [Estrutura Inicial do Repositório](#06-estrutura-inicial-do-repositório)
+* [Conceitos Trabalhados](#07-conceitos-trabalhados)
+* [Tecnologias](#08-tecnologias-utilizadas)
+* [Base Conceitual](#09-base-conceitual)
+* [Metodologia](#10-metodologia)
 
 ---
 
-# 🌐 Redes Oficiais — Rubinho Lyra Labs
+# 12. Redes Oficiais — Rubinho Lyra Labs
 
 <p align="center">
   <a href="https://www.instagram.com/rubinholyralabs/">
@@ -280,4 +282,3 @@ A metodologia utilizada combina:
   <strong>Rubinho Lyra Labs</strong><br>
   Pensar • Estruturar • Programar • Transformar
 </p>
-
