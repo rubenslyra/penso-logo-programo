@@ -1,4 +1,4 @@
-# 📘 Artigo 1 — Estruturas de Dados, Fluxo Lógico e Engenharia de Software
+# Artigo 1 — Estruturas de Dados, Fluxo Lógico e Engenharia de Software
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Estruturas_de_Dados-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -13,7 +13,7 @@
 
 ---
 
-# 🧠 Estruturas de Dados, Fluxo Lógico e Engenharia de Software
+# 01. Estruturas de Dados, Fluxo Lógico e Engenharia de Software
 
 Sua percepção está bastante correta e possui forte amparo:
 
@@ -31,7 +31,7 @@ Você está entrando exatamente no ponto onde a programação deixa de ser apena
 
 ---
 
-# 🎯 Objetivo do Artigo
+# 02. Objetivo do Artigo
 
 Este material busca explicar:
 
@@ -43,25 +43,25 @@ Este material busca explicar:
 
 ---
 
-# 📚 Sumário
+# 03. Sumário
 
-* [Estruturas surgem do fluxo](#-1-estruturas-de-dados-surgem-da-necessidade-do-fluxo)
-* [Fluxo antes da estrutura](#-2-o-fluxo-vem-antes-da-estrutura)
-* [Inicialização manual e aprendizado](#-3-por-que-aprendemos-inicializando-manualmente)
-* [Pergunta profissional correta](#-4-a-pergunta-profissional-correta)
-* [Escolha de estruturas](#-5-como-escolher-a-melhor-estrutura)
-* [Listas](#-caso-1--lista-list)
-* [Dicionários](#-caso-2--dicionário-dict)
-* [Conjuntos](#-caso-3--conjunto-set)
-* [Tuplas](#-caso-4--tupla-tuple)
-* [Fluxograma e estruturas](#-6-o-fluxograma-ajuda-a-escolher-estruturas)
-* [Estruturas inadequadas](#-7-estrutura-errada-gera-problemas-reais)
-* [Conclusão técnica](#-10-conclusão-técnica)
-* [Referências científicas](#-11-referências-científicas-e-bibliográficas)
+* [Estruturas surgem do fluxo](#1-estruturas-de-dados-surgem-da-necessidade-do-fluxo)
+* [Fluxo antes da estrutura](#2-o-fluxo-vem-antes-da-estrutura)
+* [Inicialização manual e aprendizado](#3-por-que-aprendemos-inicializando-manualmente)
+* [Pergunta profissional correta](#4-a-pergunta-profissional-correta)
+* [Escolha de estruturas](#5-como-escolher-a-melhor-estrutura)
+* [Listas](#caso-1--lista-list)
+* [Dicionários](#caso-2--dicionário-dict)
+* [Conjuntos](#caso-3--conjunto-set)
+* [Tuplas](#caso-4--tupla-tuple)
+* [Fluxograma e estruturas](#6-o-fluxograma-ajuda-a-escolher-estruturas)
+* [Estruturas inadequadas](#7-estrutura-errada-gera-problemas-reais)
+* [Conclusão técnica](#10-conclusão-técnica)
+* [Referências científicas](#11-referências-científicas-e-bibliográficas)
 
 ---
 
-# 📌 1. Estruturas de Dados Surgem da Necessidade do Fluxo
+# 1. Estruturas de Dados Surgem da Necessidade do Fluxo
 
 A ideia principal é:
 
@@ -82,7 +82,7 @@ Isso está alinhado com:
 
 ---
 
-# 📌 2. O Fluxo Vem Antes da Estrutura
+# 2. O Fluxo Vem Antes da Estrutura
 
 No ambiente profissional normalmente seguimos:
 
@@ -104,7 +104,7 @@ implementação
 
 ---
 
-# 📌 Exemplo Aplicado — UVVON
+# Exemplo Aplicado — UVVON
 
 Antes de criar:
 
@@ -126,7 +126,7 @@ As respostas praticamente revelam a estrutura correta.
 
 ---
 
-# 📌 3. Por Que Aprendemos Inicializando Manualmente?
+# 3. Por Que Aprendemos Inicializando Manualmente?
 
 Exemplo:
 
@@ -153,7 +153,7 @@ Mas no mundo profissional essas estruturas normalmente surgem:
 
 ---
 
-# 📌 4. A Pergunta Profissional Correta
+# 4. A Pergunta Profissional Correta
 
 O iniciante pergunta:
 
@@ -177,7 +177,7 @@ Essa mudança altera:
 
 ---
 
-# 📌 5. Como Escolher a Melhor Estrutura?
+# 5. Como Escolher a Melhor Estrutura?
 
 A regra principal é:
 
@@ -187,7 +187,7 @@ A estrutura depende da operação dominante.
 
 ---
 
-# 📌 CASO 1 — LISTA (`list`)
+# CASO 1 — LISTA (`list`)
 
 Usamos quando:
 
@@ -243,7 +243,7 @@ alunos = []
 
 ---
 
-# 📌 CASO 2 — DICIONÁRIO (`dict`)
+# CASO 2 — DICIONÁRIO (`dict`)
 
 Usamos quando:
 
@@ -308,7 +308,7 @@ aluno = {
 
 ---
 
-# 📌 CASO 3 — CONJUNTO (`set`)
+# CASO 3 — CONJUNTO (`set`)
 
 Usamos quando:
 
@@ -361,7 +361,7 @@ matriculas = set()
 
 ---
 
-# 📌 CASO 4 — TUPLA (`tuple`)
+# CASO 4 — TUPLA (`tuple`)
 
 Usamos quando:
 
@@ -412,7 +412,7 @@ cor_alerta = (255, 0, 0)
 
 ---
 
-# 📌 6. O Fluxograma Ajuda a Escolher Estruturas?
+# 6. O Fluxograma Ajuda a Escolher Estruturas?
 
 SIM. Muito.
 
@@ -442,7 +442,7 @@ contadores
 
 ---
 
-# 📌 7. Estrutura Errada Gera Problemas Reais
+# 7. Estrutura Errada Gera Problemas Reais
 
 Na engenharia profissional:
 
@@ -454,7 +454,7 @@ Na engenharia profissional:
 
 ---
 
-# 📌 Exemplo Clássico
+# Exemplo Clássico
 
 Pessoa usa:
 
@@ -482,7 +482,7 @@ dict
 
 ---
 
-# 📌 8. Fórmula Mental Profissional
+# 8. Fórmula Mental Profissional
 
 ```text
 Fluxo
@@ -500,7 +500,7 @@ estrutura de dados adequada
 
 ---
 
-# 📌 9. Aplicação no Projeto UVVON
+# 9. Aplicação no Projeto UVVON
 
 Entrada simples:
 
@@ -529,7 +529,7 @@ dict
 
 ---
 
-# 📌 Estrutura madura para o sistema
+# Estrutura madura para o sistema
 
 ```python
 alunos = [
@@ -548,7 +548,7 @@ alunos = [
 
 ---
 
-# 📌 10. Conclusão Técnica
+# 10. Conclusão Técnica
 
 ```text
 Estruturas de dados não são escolhidas apenas pela sintaxe da linguagem.
@@ -567,7 +567,7 @@ Isso está:
 
 ---
 
-# 📚 11. Referências Científicas e Bibliográficas
+# 11. Referências Científicas e Bibliográficas
 
 ## Livros clássicos
 
@@ -600,7 +600,7 @@ Isso está:
 
 ---
 
-# 🌐 Redes Oficiais — Rubinho Lyra Labs
+# 12. Redes Oficiais — Rubinho Lyra Labs
 
 <p align="center">
   <a href="https://www.instagram.com/rubinholyralabs/">
