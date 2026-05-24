@@ -1,9 +1,4 @@
 # Penso, Logo Programo — Fundamentos de Pensamento Computacional com Python
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/57891531-1e8e-474f-837f-5098f8fe1253" width="320" alt="penso-logo-programo">
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-ffcc00?style=for-the-badge">
@@ -12,6 +7,11 @@
   <img src="https://img.shields.io/badge/Foco-Lógica_e_Arquitetura-00c896?style=for-the-badge">
   <img src="https://img.shields.io/badge/GitFlow-Conventional_Commits-f05032?style=for-the-badge&logo=git">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57891531-1e8e-474f-837f-5098f8fe1253" width="320" alt="penso-logo-programo">
+</p>
+
 
 ---
 
