@@ -246,8 +246,10 @@ A metodologia utilizada combina:
 * [Filosofia do Projeto](#03-filosofia-do-projeto)
 * [Proposta de Desenvolvimento](#04-proposta-de-desenvolvimento)
 * [Estrutura Pedagógica](#05-estrutura-pedagógica)
+* [Estrutura Inicial do Repositório](#06-estrutura-inicial-do-repositório)
 * [Conceitos Trabalhados](#07-conceitos-trabalhados)
 * [Tecnologias](#08-tecnologias-utilizadas)
+* [Base Conceitual](#09-base-conceitual)
 * [Metodologia](#10-metodologia)
 
 ---
